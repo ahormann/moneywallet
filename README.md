@@ -40,6 +40,7 @@ This project is completely free, I decided to completely remove the in-app purch
 
 ## Build
 You can compile the application very simply: just clone this repository locally to your computer and Android Studio will take care of the rest.
+It requires Java 8.
 You have four different options to build it with two choices.
 The first choice is which version you want to build:
 
